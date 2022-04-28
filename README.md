@@ -1,4 +1,4 @@
-<h1 align="center">Hogwarts</h1>
+<h1 align="center">Hogwarts School of Magic</h1>
 
 ![Hogwarts Castle](https://static.onecms.io/wp-content/uploads/sites/6/2018/07/hogwarts1-2000.jpg)
 
